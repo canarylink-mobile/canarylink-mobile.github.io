@@ -1,10 +1,40 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://canarylink-mobile.github.io/</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://canarylink-mobile.github.io/screens.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://canarylink-mobile.github.io/batteries.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://canarylink-mobile.github.io/cameras.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://canarylink-mobile.github.io/mobile-parts.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://canarylink-mobile.github.io/accessories.html</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://canarylink-mobile.github.io/software.html</loc><lastmod>2026-11-15</lastmod></url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/screens.html</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/batteries.html</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/cameras.html</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/mobile-parts.html</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/accessories.html</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
+  <url>
+    <loc>https://canarylink-mobile.github.io/software.html</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+
 </urlset>
